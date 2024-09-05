@@ -1,2 +1,2 @@
 # My-First-Repo
-![Ik die een hond aait](ikhond.jpg)
+<img src"ikhond.jpg" width="100" alt="Ik die een hond aait")
