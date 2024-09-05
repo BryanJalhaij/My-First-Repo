@@ -1,2 +1,2 @@
 # My-First-Repo
-<img src="ikhond.jpg" width="100" alt="Ik die een hond aait"/>
+<img src="ikhond.jpg" width="400" alt="Ik die een hond aait"/>
